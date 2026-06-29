@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailDataImporter", "MailDataImporter.csproj", "{1F492977-D843-4C76-A01F-3AB5A7740608}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{D92DFECB-4B7E-4FF0-936B-3E53EB5B81A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F492977-D843-4C76-A01F-3AB5A7740608}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F492977-D843-4C76-A01F-3AB5A7740608}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F492977-D843-4C76-A01F-3AB5A7740608}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F492977-D843-4C76-A01F-3AB5A7740608}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D92DFECB-4B7E-4FF0-936B-3E53EB5B81A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D92DFECB-4B7E-4FF0-936B-3E53EB5B81A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D92DFECB-4B7E-4FF0-936B-3E53EB5B81A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D92DFECB-4B7E-4FF0-936B-3E53EB5B81A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
